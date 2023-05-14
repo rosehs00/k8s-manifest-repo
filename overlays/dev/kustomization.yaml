@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 940168446867.dkr.ecr.ap-northeast-1.amazonaws.com/hhs-demo-frontend
   newName: 940168446867.dkr.ecr.ap-northeast-1.amazonaws.com/hhs-demo-frontend
-  newTag: c04d9fe5
+  newTag: a3367dd3
 resources:
 - ../../base
 patchesStrategicMerge:
